@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EARL2021
-- 👀 I’m interested in Data Analysis/Data science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis/Data science/Web Developmen
+- 🌱 I’m currently learning Python/Javascript/html, css
 - 💞️ I’m looking to collaborate on everything than can get me some good skills at programing
 - 📫 How to reach me erodriguezloyaga@gmail.com
 
